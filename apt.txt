@@ -1,2 +1,10 @@
-lolcat
-cowsay
+tidyr
+DescTools
+purrr
+ggplot2
+caret
+rpart
+rpart.plot
+randomForest
+dplyr
+e1071
